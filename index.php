@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parte do Front-End da atividade</title>
+    <title>Parte do Front-End da Atividade</title>
 </head>
 <body>
-    <?php
 
+
+    <?php
+    //Versão PHP 7.3
     /* Obs: Caso queira testar só tirar a "barra e asterisco()" que está comentado e caso queira voltar a não funcionar 
     e testar outro é só colocar */
 
@@ -88,7 +90,7 @@
 
     //5. Funcionario
     /*include("processamento/Funcionario.php");
-    echo "Funcionario:<br>";
+    echo 'Funcionario:<br>';
     $listar = new Funcionario();
 
     $resultado = $listar->listarfuncionarios();
